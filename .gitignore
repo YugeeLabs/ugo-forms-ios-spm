@@ -1,2 +1,3 @@
 .build/
-.swiftpm/Xcode/xcuserdata/
+.swiftpm/
+xcuserdata/
